@@ -1,0 +1,17 @@
+//写代码
+//先写主函数（main函数）
+//如何执行：从第一行开始执行
+
+
+//写个代码，在屏幕打印：yiqien
+//printf - 库函数 - 在屏幕打印信息
+//printf 的使用，引用头文件 stdio.h
+
+#include <stdio.h>
+int main()
+{
+	printf("yiqien\n");
+
+	return 0;
+}
+// 编译+链接+运行代码
