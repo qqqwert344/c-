@@ -1,0 +1,22 @@
+//数据类型
+// 
+// char       字符数据类型
+// shout      短整型
+// int        整形
+// long       长整型
+// long long  更长的整型
+// float      单精度浮点数
+// double     双精度浮点数
+#include <stdio.h>
+int main()
+{
+	printf("%d\n", sizeof(char));
+	//sizof — 关键字,单位：字节byte；
+	//计算机中的单位：bit-比特位
+	//byte - 字节 = 8bit
+	//kb = 1024 byte
+	//mb = 1024 kb
+	//gb = 1024 mb
+
+	return 0;
+}
